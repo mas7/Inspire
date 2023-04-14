@@ -1,5 +1,5 @@
 {
-    "name": "mas/inspire",
+    "name": "mas7/inspire",
     "description": "Giving inspirational quotes",
     "autoload": {
         "psr-4": {
