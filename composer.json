@@ -3,7 +3,7 @@
     "description": "Giving inspirational quotes",
     "autoload": {
         "psr-4": {
-            "Mas\\Inspire\\": "src/"
+            "Mas7\\Inspire\\": "src/"
         }
     },
     "authors": [
